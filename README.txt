@@ -1,3 +1,8 @@
+This code is based on glut because I didn't want to do the assignment in Unity and didn't know much about realtime graphics :P
+This means it only compiles on win32. 
+
+If you really want to compile and run this code, here's the original readme for the assignment :
+
 Hover over a cell and press :
 
 1 to change it to grass
